@@ -14,9 +14,11 @@ As I've always been deeply involved with creativity, I can easily come up with d
 ##
 
 <div align="center">
-  <img width="42%" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tataz1k4&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img width="42%" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tataz1k4&layout=compact&langs_count=8&theme=react"/>
+  <img width="40%" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tataz1k4&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img width="40%" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tataz1k4&layout=compact&langs_count=8&theme=react"/>
 </div>
+
+##
 
 <div>
 <h3 align="center">Competences:</h3>
