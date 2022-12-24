@@ -25,7 +25,7 @@ As I've always been deeply involved with creativity, I can easily come up with d
 <p align="center"><img height="50" width="50" src="https://img.icons8.com/color/50/null/ruby-programming-language.png" /> <img height="50" width="50" src="https://user-images.githubusercontent.com/111141680/209415388-9da3c3fc-1a14-4d47-86ab-2e292e6cd481.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/null/javascript--v1.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/null/html-5--v1.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/null/css3.png"/> <img height="50" width="50" src="https://img.icons8.com/external-flat-juicy-fish/50/null/external-sql-coding-and-development-flat-flat-juicy-fish.png"/></p></div>
 </div>
 
-***************
+##
 
 <h3 align="center">Contact info:</h3>
 <p align="center">
