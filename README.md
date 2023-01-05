@@ -2,9 +2,8 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&pause=990&color=349EC3&vCenter=true&width=435&height=45&lines=Full-Stack+Web+Developer" alt="Full-Stack Web Developer" /></a>
 
-<img align="left" src="https://media.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif" width="250px"> I graduated from Le Wagon in their full-time Web Development Bootcamp and this experience made me really passionate about coding! =)<br>
-I'm also a textile artist (crochet designer).<br>
-As I've always been deeply involved with creativity, I can easily come up with dynamic solutions and I'm very detail oriented.
+<img align="left" src="https://media.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif" width="250px"> I recently graduated from Le Wagon in their full-time Web Development Bootcamp and this experience made me really passionate about coding! =)<br>
+I'm also a textile artist (crochet designer) 🤍
 
 <div align="left">
 - 👩‍💻🧶 I’m currently developing my own <strong> crochet marketplace</strong>.<br>
