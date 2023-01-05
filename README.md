@@ -8,7 +8,7 @@ As I've always been deeply involved with creativity, I can easily come up with d
 
 <div align="left">
 - 👩‍💻🧶 I’m currently developing my own <strong> crochet marketplace</strong>.<br>
-- 📜 Right now I’m learning and studying <strong>React</strong> and <strong>Python</strong>.
+- 📜 Right now I’m learning and studying <strong>JS</strong> and <strong>Python</strong>.
 </div>
 
 ***************	
