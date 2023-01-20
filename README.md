@@ -2,9 +2,9 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&pause=990&color=349EC3&vCenter=true&width=435&height=45&lines=Full-Stack+Web+Developer" alt="Full-Stack Web Developer" /></a>
 
-<p>I recently graduated from Le Wagon in their full-time Web Development Bootcamp and this experience made me really passionate about coding! =)
+<p>I recently graduated from Le Wagon in their full-time Web Development Bootcamp and this experience made me really passionate and enthusiastic about coding! =)
 <br>
-I'm also a textile artist (crochet designer) and videomaker 🤍
+I'm also a textile artist (crochet designer) and a freelancer videomaker! 🤍
 </p>
 
 <div align="left">
