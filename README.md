@@ -2,14 +2,16 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&pause=990&color=349EC3&vCenter=true&width=435&height=45&lines=Full-Stack+Web+Developer" alt="Full-Stack Web Developer" /></a>
 
-<p>I recently graduated from Le Wagon in their full-time Web Development Bootcamp and this experience made me really passionate and enthusiastic about coding! =)
+<p>I graduated from Le Wagon in their full-time Web Development Bootcamp on 2022 and I'm currently working for an amazing brazilian start-up and studying Computer Science.
 <br>
-I'm also a textile artist (crochet designer) and a freelancer videomaker! 🤍
+Besides being really passionate, curious and enthusiastic about coding, I'm also a textile artist (crochet designer) and videomaker! 🤍
+<br>
+Guess you could say I really like creating and building stuff from scratch :)
 </p>
 
 <div align="left">
-- 👩‍💻🧶 I’m currently developing my own <strong> crochet marketplace</strong>.<br>
-- 📜 Right now I’m learning and studying <strong>JS</strong> and <strong>Python</strong>.
+- 👩‍💻🧶 I’m currently developing <strong> personal projects</strong>.<br>
+- 📜 I’m always learning and studying about things that I'm interested in.
 </div>
 <br>
 
