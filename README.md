@@ -2,16 +2,16 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&pause=990&color=349EC3&vCenter=true&width=435&height=45&lines=Full-Stack+Web+Developer" alt="Full-Stack Web Developer" /></a>
 
-<p>I graduated from Le Wagon in their full-time Web Development Bootcamp on 2022 and I'm currently working for a brazilian start-up and studying Computer Science.
+<p>I graduated from Le Wagon in their full-time Web Development Bootcamp on 2022 and I've been working as a full-stack dev since then. I'm currently working for a brazilian company and majoring in Computer Science.
 <br>
-Besides being really passionate, curious and enthusiastic about coding, I'm also a textile artist (crochet designer) and videomaker! 🤍
+Besides being really passionate, curious and enthusiastic about coding, I'm also a textile artist (crochet designer)! 🤍
 <br>
 Guess you could say I really like creating and building stuff from scratch :)
 </p>
 
 <div align="left">
-- 👩‍💻🧶 I’m currently developing <strong> personal projects</strong>.<br>
-- 📜 I’m always learning and studying about things that I'm interested in.
+- 👩‍💻🧶 I’m currently developing a <strong> personal project</strong> involving computer graphics and crochet.<br>
+- 📜 I’m always learning and studying about tech and a whole lot of other things I'm interested in.
 </div>
 <br>
 
@@ -26,7 +26,7 @@ Guess you could say I really like creating and building stuff from scratch :)
 
 <div>
 <h3 align="center">Competences:</h3>
-<p align="center"><img height="50" width="50" src="https://img.icons8.com/color/50/null/ruby-programming-language.png" /> <img height="50" width="50" src="https://user-images.githubusercontent.com/111141680/209415388-9da3c3fc-1a14-4d47-86ab-2e292e6cd481.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/null/javascript--v1.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/null/html-5--v1.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/null/css3.png"/> <img height="50" width="50" src="https://img.icons8.com/external-flat-juicy-fish/50/null/external-sql-coding-and-development-flat-flat-juicy-fish.png"/></p></div>
+<p align="center"> <img width="48" height="48" src="https://img.icons8.com/color/48/php.png" alt="php"/> <img height="50" width="50" src="https://img.icons8.com/color/48/null/javascript--v1.png"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/vuejs.png" alt="vuejs"/> <img height="50" width="50" src="https://img.icons8.com/color/48/null/html-5--v1.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/null/css3.png"/> <img height="50" width="50" src="https://img.icons8.com/external-flat-juicy-fish/50/null/external-sql-coding-and-development-flat-flat-juicy-fish.png"/></p></div>
 </div>
 
 ##
