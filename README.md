@@ -9,12 +9,6 @@ Besides being really passionate, curious and enthusiastic about coding, I'm also
 Guess you could say I really like creating and building stuff from scratch :)
 </p>
 
-<div align="left">
-- 👩‍💻🧶 I’m currently developing a <strong> personal project</strong> involving computer graphics and crochet.<br>
-- 📜 I’m always learning and studying about tech and a whole lot of other things I'm interested in.
-</div>
-<br>
-
 ***************
 
 <div align="center">
